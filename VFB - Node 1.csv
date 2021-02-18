@@ -1,0 +1,38 @@
+id ,name ,sex,age,type,power,faction,education,representation,position
+thi,Thomas Hitzlsperger,1,1,0,2,1,0,6,3
+she,Stefan Heim,1,2,0,1,1,2,2,3
+jro,Jochen Röttgermann,1,3,0,1,1,3,5,3
+osc,Oliver Schraft,1,3,0,0,1,2,5,3
+cvo,Claus Vogt,1,3,0,1,2,2,3,3
+wpo,Wilfried Porth,1,4,0,1,2,3,1,2
+rad,Rainer Adrion,1,4,0,0,2,2,2,1
+bga,Dr. Bernd Gaiser,1,3,0,0,2,4,2,1
+hje,Hartmut Jenner,1,3,0,0,2,3,2,2
+hoh,Hermann Ohlicher,1,5,0,0,2,3,3,1
+fre,Franz Reiner,1,3,0,0,2,2,3,1
+bsu,Dr. Betram Sugg,1,3,0,0,2,4,3,1
+vbb,VfB,3,6,1,2,3,5,6,4
+swe,Südwestbank,3,6,1,2,3,5,6,4
+mbb,Mercedes Benz Bank,3,6,1,2,3,5,6,4
+mbe,Mercedes Benz,3,6,1,2,3,5,6,4
+sho,Stuttgarter Hofbräu,3,6,1,0,3,5,6,4
+jak,Jako,3,6,1,1,3,5,6,4
+vrg,VfB Rehawelt GmbH,3,6,1,2,3,5,6,4
+vfp,VfB fairplay,3,6,1,2,3,5,6,4
+fbm,FC Bayern München,3,6,1,0,3,5,6,4
+sne,Stadion NeckarPark,3,6,1,2,3,5,6,4
+wku,Wolfgang Kuhn,1,3,0,0,3,4,6,1
+dag,Daimler AG,3,6,1,1,3,5,6,4
+aka,Alfred Kärcher SE und Co. KG‎,3,6,0,1,3,5,6,4
+gbu,Guido Buchwald,1,3,0,0,3,0,4,4
+jkl,Jürgen Klinsmann,1,3,0,0,3,2,4,4
+tbe,Thomas Berthold,1,3,0,0,3,0,4,4
+vze,Volker Zeh,1,3,0,0,3,1,2,4
+fmi,Friedhild Miller,2,3,0,0,3,2,1,4
+tlo,Toto-Lotto GmbH,3,6,1,0,3,5,6,4
+dmo,Daimler Mobility AG,3,6,1,1,3,5,6,4
+vsd,VSD,3,6,1,0,3,5,6,4
+vst,VfB Stuttgart Marketing GmbH,3,6,1,2,3,5,6,4
+dfl,DFL ,3,6,1,0,3,5,6,4
+kcl,Kommission Clubmedien DFL,3,6,0,1,3,5,6,4
+fpl,FC PlayFair,3,6,0,1,3,5,6,4
